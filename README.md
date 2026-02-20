@@ -1,20 +1,58 @@
-# retail-sales-analytics
+## Retail Sales Analytics — Discount Impact Analysis
 
-## Retail Sales Analysis — Discount Strategy Impact
+### Project Overview
 
-### Overview
-This project analyses how discounting affects sales and profitability using a real-world retail dataset.
+This project analyses how discounting strategies impact sales and profitability across different product categories using real-world retail data.
+
+The goal is to identify whether discounts drive sustainable growth or erode profit margins.
+
+### Tools & Technologies
+	•	Python (Pandas, Matplotlib)
+	•	Jupyter Notebook
+	•	Google Looker Studio (Dashboard)
+	•	Excel (initial exploration)
+
+⸻
+
+### Dataset
+	•	Sample Superstore dataset
+	•	Includes: Sales, Profit, Discount, Category, Product, Region
+
+⸻
+
+### Key Analysis Performed
+
+1. Profit vs Discount
+	•	Grouped profit by discount levels
+	•	Identified break-even point
+
+2. Category-Level Analysis
+	•	Compared Furniture, Technology, Office Supplies
+	•	Identified which category becomes unprofitable first
+
+3. Profit per Order (Average Profit)
+	•	Removed volume bias
+	•	Revealed true impact of discounting
+
+4. Revenue vs Profit Comparison
+	•	Showed that sales do not necessarily translate to profitability
+
+5. Dashboard (Looker Studio)
+	•	Interactive filtering by category
+	•	Visual breakdown of profit trends
+
+⸻
 
 ### Key Insights
-- Technology is the most profitable category
-- Profit declines as discount increases
-- Losses begin around 25–30% discount levels
-- Furniture becomes unprofitable earlier than other categories
-- Discounts do not significantly increase revenue
+	•	Profit declines sharply as discounts increase
+	•	Profit turns negative around 25–30% discount levels
+	•	Furniture becomes unprofitable first (~20% discount)
+	•	Technology remains the most resilient category
+	•	Discounts may increase sales temporarily but fail to improve profitability
 
-### Tools Used
-- Python (Pandas, Matplotlib)
-- Jupyter Notebook
-
-### Business Recommendation
-Reduce heavy discounting strategies, especially above 25%, as they erode profit without delivering sufficient sales growth.
+### 🚀 Business Recommendation
+	•	Avoid aggressive discounting above 20–25%
+	•	Re-evaluate pricing strategy for Furniture products
+	•	Focus on high-margin Technology products for profitability
+### ### 🔗 Live Dashboard
+[https://lookerstudio.google.com/s/pmhnPYu6JkM)
