@@ -4,13 +4,15 @@
 
 This project analyses how discounting strategies impact sales and profitability across different product categories using real-world retail data.
 
-The goal is to identify whether discounts drive sustainable growth or erode profit margins.
+The goal is to determine whether discounts drive sustainable growth or erode profit margins.
+
+⸻
 
 ### Tools & Technologies
 	•	Python (Pandas, Matplotlib)
 	•	Jupyter Notebook
 	•	Google Looker Studio (Dashboard)
-	•	Excel (initial exploration)
+	•	Excel (Pivot Tables for initial exploration)
 
 ⸻
 
@@ -35,11 +37,15 @@ The goal is to identify whether discounts drive sustainable growth or erode prof
 	•	Revealed true impact of discounting
 
 4. Revenue vs Profit Comparison
-	•	Showed that sales do not necessarily translate to profitability
+	•	Demonstrated that increased sales do not guarantee higher profitability
 
 5. Dashboard (Looker Studio)
 	•	Interactive filtering by category
-	•	Visual breakdown of profit trends
+	•	Visual breakdown of profit and margin trends
+
+6. Excel Analysis
+	•	Initial exploration using Pivot Tables
+	•	Identified early trends in category performance and seasonality
 
 ⸻
 
@@ -50,11 +56,9 @@ The goal is to identify whether discounts drive sustainable growth or erode prof
 	•	Technology remains the most resilient category
 	•	Discounts may increase sales temporarily but fail to improve profitability
 
-### Business Recommendation
-	•	Avoid aggressive discounting above 20–25%
-	•	Re-evaluate pricing strategy for Furniture products
-	•	Focus on high-margin Technology products for profitability
-### Live Dashboard
-[https://lookerstudio.google.com/s/pmhnPYu6JkM)
-![Dashboard](retail-sales-analytics.png)
+⸻
 
+### Dashboard Live
+[View Dashboard](https://lookerstudio.google.com/s/kLDKoso681Y)
+
+### Preview 
