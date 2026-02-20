@@ -62,3 +62,15 @@ The goal is to determine whether discounts drive sustainable growth or erode pro
 [View Dashboard](https://lookerstudio.google.com/s/kLDKoso681Y)
 
 ### Preview 
+![Dashboard](retail-sales-analytics.png)
+
+### Business Recommendations
+	•	Avoid aggressive discounting above 20–25%
+	•	Re-evaluate pricing strategy for Furniture products
+	•	Focus on high-margin Technology products for profitability
+
+⸻
+
+### Key Learning
+
+This project highlights that revenue growth does not necessarily translate to profitability, and emphasises the importance of analysing profit and margin when evaluating business performance
