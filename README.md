@@ -50,9 +50,11 @@ The goal is to identify whether discounts drive sustainable growth or erode prof
 	•	Technology remains the most resilient category
 	•	Discounts may increase sales temporarily but fail to improve profitability
 
-### 🚀 Business Recommendation
+### Business Recommendation
 	•	Avoid aggressive discounting above 20–25%
 	•	Re-evaluate pricing strategy for Furniture products
 	•	Focus on high-margin Technology products for profitability
-### ### 🔗 Live Dashboard
+### Live Dashboard
 [https://lookerstudio.google.com/s/pmhnPYu6JkM)
+![Dashboard](retail-sales-analytics.png)
+
